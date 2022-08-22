@@ -1,6 +1,6 @@
 {
-  "name": "create-vue",
-  "version": "0.0.0",
+  "name": "<%= pkgName %>",
+  "version": "<%= pkgVersion %>",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
